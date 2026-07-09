@@ -156,7 +156,3 @@ pip install babypandas numpy matplotlib otter-grader
 - This project was designed in the style of a course notebook, so some answers are embedded directly in notebook cells rather than separated into scripts.
 - Several questions involve visual analysis through plots, so opening the notebook is the best way to see the full project.
 - The repository is best structured with the notebook and all CSV files included together.
-
-## Author
-
-Ian Lee
